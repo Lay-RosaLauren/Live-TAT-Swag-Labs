@@ -5,7 +5,8 @@
 
 </span>  
 
-Live "mão-na-massa", uma arquitetura de testes evolutiva!
+✅ - Live "mão-na-massa", uma arquitetura de testes evolutiva! 
+- <a href="https://github.com/wlsf82"><b>By 'Walmyr Filho'</b></a>
 
 # Sample project to demonstrate how to evolve a test architecture on-demand.
 <span align="center">
