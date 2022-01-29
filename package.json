@@ -1,0 +1,15 @@
+{
+  "name": "live-tat-swag-labs",
+  "version": "1.0.0",
+  "description": "TAT - Sample project to demonstrate how to evolve a test architecture on-demand.",
+  "main": "index.js",
+  "scripts": {
+    "testOpen": "npx cypress open",
+    "testRun": "npx cypress run"
+  },
+  "author": "Lay-RosaLauren",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.2.0"
+  }
+}
